@@ -1,0 +1,8 @@
+Jumlah suku: 2000
+Urutan pertama: 2001
+Beda: 1
+
+Menghitung jumlah deret angka
+Sn=1/2*n*(2a+(n-1)*b)
+
+Jumlah deret angka = 1/2 dikali jumlah suku, dikalikan dengan hasil dari 2 dikali suku pertama, ditambahkan dengan hasil jumlah suku dikurangi 1 dikalikan dengan b.
