@@ -1,0 +1,12 @@
+Jika kopi melalui pipa kiri, ada 2 pilihan: 4,9
+Jika kopi melalui pipa kanan, ada 2 pilihan: 5,7
+
+Jika kopi ke kiri
+cangkir 4 tidak dapat terisi karena pipanya tertutup
+cangkir 9 tidak dapat terisi karena pipanya tertutup
+
+Jika kopi ke kanan
+cangkir 7 tidak dapat terisi karena pipanya tertutup
+cangkir 5 dapat terisi karena pipa tidak tertutup
+
+maka, cangkir yang akan penuh duluan adalah cangkir 5
